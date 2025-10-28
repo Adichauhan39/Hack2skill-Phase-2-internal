@@ -3,7 +3,17 @@ Ultra-Simple Hotel Search Server - Stable Version
 CSV + Gemini (no ADK complexity)
 """
 import os
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyAaC4DMxu0mHPggTp7eyEoG4rtAywCQ4z8'
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Get API key from environment
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+if not GOOGLE_API_KEY:
+    raise ValueError("GOOGLE_API_KEY not found in environment variables. Please set it in a .env file.")
+
+os.environ['GOOGLE_API_KEY'] = GOOGLE_API_KEY
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
