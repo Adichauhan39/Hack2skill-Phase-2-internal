@@ -1,0 +1,81 @@
+city,accommodation_type,name,price_per_night,rating,room_types,food_options,ambiance,extras,nearby_attractions,accessibility
+Delhi,Hotel,The Leela Palace New Delhi,25000,4.9,Deluxe|Suite|Executive,Veg|Non-Veg|Continental|Indian|Buffet|À la carte,Luxury|Romantic,WiFi|Parking|Pool|Gym|Spa|Airport Pickup|Early Check-in|Late Check-in,Red Fort|India Gate|Qutub Minar,Wheelchair Support|Elevator Access
+Delhi,Hotel,ITC Maurya,18000,4.7,Double|Deluxe|Executive|Suite,Veg|Non-Veg|Continental|Indian|Chinese|Buffet,Luxury|Modern,WiFi|Parking|Gym|Pool|Airport Pickup|Event Hosting,India Gate|Rashtrapati Bhavan,Wheelchair Support|Elevator Access
+Delhi,Hostel,Zostel Delhi,800,4.2,Dormitory|Double,Veg|Non-Veg|Indian,Budget|Modern|Party,WiFi|Common Kitchen|Lounge|Bike Rental,Connaught Place|Chandni Chowk,Basic Access
+Delhi,Hotel,Hotel Shanti Palace,3500,4.0,Single|Double|Family,Veg|Non-Veg|Indian,Budget|Traditional,WiFi|Parking|Room Service,Karol Bagh Market|Gurudwara Bangla Sahib,Elevator Access
+Delhi,Hotel,The Imperial,30000,4.9,Deluxe|Suite|View Room,Veg|Non-Veg|Vegan|Continental|Indian|Mediterranean|À la carte,Luxury|Traditional|Romantic,WiFi|Parking|Pool|Spa|Gym|Airport Pickup|Event Hosting,Connaught Place|Janpath Market,Wheelchair Support|Elevator Access
+Mumbai,Hotel,The Taj Mahal Palace,35000,4.9,Deluxe|Suite|View Room|Executive,Veg|Non-Veg|Continental|Indian|Chinese|Mediterranean|À la carte,Luxury|Romantic|Traditional,WiFi|Parking|Pool|Spa|Gym|Airport Pickup|Event Hosting|Sea View,Gateway of India|Colaba Causeway,Wheelchair Support|Elevator Access
+Mumbai,Hotel,The Oberoi Mumbai,28000,4.8,Double|Deluxe|Suite|View Room,Veg|Non-Veg|Continental|Indian|Buffet|À la carte,Luxury|Modern|Romantic,WiFi|Parking|Pool|Gym|Spa|Airport Pickup,Marine Drive|Nariman Point,Wheelchair Support|Elevator Access
+Mumbai,Hostel,Backpacker Panda,1000,4.3,Dormitory|Double,Veg|Non-Veg|Continental,Budget|Modern|Party,WiFi|Common Area|Rooftop,Chhatrapati Shivaji Terminus|Crawford Market,Basic Access
+Mumbai,Hotel,Hotel Suba Palace,5000,4.1,Single|Double|Deluxe,Veg|Non-Veg|Indian,Budget|Traditional,WiFi|Parking|Restaurant,Gateway of India|Apollo Bunder,Elevator Access
+Mumbai,Hotel,Trident Nariman Point,22000,4.7,Double|Deluxe|Executive|Suite,Veg|Non-Veg|Continental|Indian|Chinese|Buffet,Luxury|Modern,WiFi|Parking|Pool|Gym|Airport Pickup|Event Hosting,Marine Drive|Gateway of India,Wheelchair Support|Elevator Access
+Bangalore,Hotel,The Leela Palace Bangalore,22000,4.8,Deluxe|Suite|Executive|View Room,Veg|Non-Veg|Continental|Indian|Chinese|À la carte,Luxury|Modern,WiFi|Parking|Pool|Spa|Gym|Airport Pickup|Event Hosting,Lalbagh Garden|Cubbon Park,Wheelchair Support|Elevator Access
+Bangalore,Hotel,ITC Gardenia,18000,4.7,Double|Deluxe|Executive,Veg|Non-Veg|Vegan|Continental|Indian|Buffet,Luxury|Modern|Eco-Friendly,WiFi|Parking|Pool|Gym|Spa|Airport Pickup,UB City Mall|M.G. Road,Wheelchair Support|Elevator Access
+Bangalore,Hostel,The Hive Hostel,900,4.4,Dormitory|Double,Veg|Non-Veg|Continental|Indian,Budget|Modern|Party,WiFi|Common Kitchen|Game Room|Work Space,Indiranagar Market|MG Road,Basic Access
+Bangalore,Hotel,Treebo Trend Bliss,3500,4.0,Single|Double|Family,Veg|Non-Veg|Indian,Budget|Modern,WiFi|Parking|Breakfast,Electronic City|HSR Layout,Elevator Access
+Bangalore,Hotel,Taj West End,24000,4.8,Deluxe|Suite|View Room,Veg|Non-Veg|Continental|Indian|Mediterranean|À la carte,Luxury|Traditional|Romantic|Eco-Friendly,WiFi|Parking|Pool|Spa|Gym|Airport Pickup|Garden|Pet-Friendly,Cubbon Park|MG Road,Wheelchair Support|Elevator Access|Pet Facilities
+Goa,Hotel,Taj Exotica Resort,20000,4.8,Deluxe|Suite|View Room,Veg|Non-Veg|Continental|Indian|Seafood|À la carte,Luxury|Romantic|Eco-Friendly,WiFi|Parking|Pool|Spa|Gym|Beach Access|Water Sports,Benaulim Beach|Colva Beach,Wheelchair Support|Elevator Access
+Goa,Hostel,Moustache Hostel Palolem,1200,4.5,Dormitory|Double,Veg|Non-Veg|Continental|Indian,Budget|Modern|Party,WiFi|Beach Access|Common Area|Bike Rental,Palolem Beach|Butterfly Beach,Basic Access
+Goa,Hotel,Cidade de Goa,12000,4.6,Double|Deluxe|Suite,Veg|Non-Veg|Seafood|Indian|Continental|Buffet,Luxury|Traditional|Romantic,WiFi|Parking|Pool|Spa|Beach Access|Event Hosting,Dona Paula|Miramar Beach,Wheelchair Support|Elevator Access
+Goa,Hotel,Zostel Goa,1000,4.3,Dormitory|Double|Family,Veg|Non-Veg|Indian|Continental,Budget|Party|Family-Friendly,WiFi|Pool|Common Area|Cafe,Anjuna Beach|Vagator Beach,Basic Access
+Goa,Hotel,The Leela Goa,28000,4.9,Deluxe|Suite|View Room|Executive,Veg|Non-Veg|Vegan|Seafood|Continental|Indian|Mediterranean|À la carte,Luxury|Romantic|Eco-Friendly,WiFi|Parking|Pool|Spa|Gym|Beach Access|Golf Course|Pet-Friendly,Cavelossim Beach|Mobor Beach,Wheelchair Support|Elevator Access|Pet Facilities
+Jaipur,Hotel,The Oberoi Rajvilas,32000,4.9,Suite|Deluxe|Executive,Veg|Non-Veg|Indian|Continental|À la carte,Luxury|Traditional|Romantic,WiFi|Parking|Pool|Spa|Gym|Airport Pickup|Heritage Property,Amber Fort|City Palace,Wheelchair Support|Elevator Access
+Jaipur,Hostel,Moustache Jaipur,800,4.4,Dormitory|Double,Veg|Non-Veg|Indian,Budget|Modern|Party,WiFi|Rooftop|Common Kitchen|Cultural Events,Hawa Mahal|Jantar Mantar,Basic Access
+Jaipur,Hotel,Hotel Pearl Palace,2500,4.2,Single|Double|Family,Veg|Non-Veg|Indian,Budget|Traditional|Family-Friendly,WiFi|Parking|Rooftop Restaurant,Hawa Mahal|City Palace,Elevator Access
+Jaipur,Hotel,Rambagh Palace,40000,5.0,Suite|Deluxe|Executive|View Room,Veg|Non-Veg|Continental|Indian|Mediterranean|À la carte,Luxury|Traditional|Romantic,WiFi|Parking|Pool|Spa|Gym|Airport Pickup|Heritage Property|Event Hosting,Ram Niwas Garden|Albert Hall,Wheelchair Support|Elevator Access
+Jaipur,Hotel,Samode Haveli,15000,4.7,Deluxe|Suite,Veg|Non-Veg|Indian|Continental|Buffet,Luxury|Traditional|Romantic,WiFi|Parking|Pool|Heritage Property|Cultural Shows,Johri Bazaar|City Palace,Wheelchair Support|Elevator Access
+Agra,Hotel,The Oberoi Amarvilas,50000,4.9,Suite|Deluxe|Executive|View Room,Veg|Non-Veg|Continental|Indian|À la carte,Luxury|Romantic,WiFi|Parking|Pool|Spa|Gym|Airport Pickup|Taj Mahal View,Taj Mahal|Agra Fort,Wheelchair Support|Elevator Access
+Agra,Hotel,ITC Mughal,18000,4.7,Double|Deluxe|Executive,Veg|Non-Veg|Continental|Indian|Buffet,Luxury|Traditional,WiFi|Parking|Pool|Spa|Gym|Mughal Architecture,Taj Mahal|Mehtab Bagh,Wheelchair Support|Elevator Access
+Agra,Hotel,Hotel Atulyaa Taj,4500,4.2,Single|Double|Deluxe,Veg|Non-Veg|Indian,Budget|Modern,WiFi|Parking|Rooftop|Taj View,Taj Mahal|Agra Fort,Elevator Access
+Agra,Hotel,Taj Hotel & Convention Centre,12000,4.6,Double|Deluxe|Suite,Veg|Non-Veg|Continental|Indian|Buffet,Luxury|Modern,WiFi|Parking|Pool|Gym|Event Hosting,Taj Mahal|Sikandra,Wheelchair Support|Elevator Access
+Kerala,Hotel,Kumarakom Lake Resort,28000,4.8,Deluxe|Suite|View Room,Veg|Non-Veg|Vegan|Indian|Continental|Seafood|À la carte,Luxury|Romantic|Eco-Friendly,WiFi|Parking|Pool|Spa|Ayurveda|Backwater View|Houseboat,Kumarakom Backwaters|Vembanad Lake,Wheelchair Support|Elevator Access
+Kerala,Hotel,Taj Malabar Resort,22000,4.7,Double|Deluxe|View Room,Veg|Non-Veg|Seafood|Indian|Continental|Buffet,Luxury|Traditional|Romantic,WiFi|Parking|Pool|Spa|Harbor View,Fort Kochi|Chinese Fishing Nets,Wheelchair Support|Elevator Access
+Kerala,Hostel,Backpack Hostel Kochi,700,4.3,Dormitory|Double,Veg|Non-Veg|Indian|Continental,Budget|Modern,WiFi|Common Area|Kitchen|Bike Rental,Fort Kochi|Mattancherry,Basic Access
+Kerala,Hotel,Spice Village Resort,9000,4.4,Double|Deluxe|Family,Veg|Non-Veg|Organic|Indian,Luxury|Eco-Friendly|Traditional,WiFi|Parking|Nature Walks|Organic Farm|Spa,Periyar Wildlife Sanctuary|Spice Plantations,Wheelchair Support
+Udaipur,Hotel,The Oberoi Udaivilas,45000,4.9,Suite|Deluxe|Executive|View Room,Veg|Non-Veg|Continental|Indian|Mediterranean|À la carte,Luxury|Traditional|Romantic,WiFi|Parking|Pool|Spa|Gym|Lake View|Heritage Property|Boat Rides,Lake Pichola|City Palace,Wheelchair Support|Elevator Access
+Udaipur,Hotel,Taj Lake Palace,40000,4.9,Suite|Deluxe|View Room,Veg|Non-Veg|Continental|Indian|À la carte,Luxury|Traditional|Romantic,WiFi|Pool|Spa|Island Palace|Boat Transfer|Heritage Property,Lake Pichola|Jag Mandir,Wheelchair Support|Elevator Access
+Udaipur,Hotel,Hotel Udai Kothi,7000,4.3,Single|Double|Deluxe,Veg|Non-Veg|Indian|Continental,Budget|Traditional,WiFi|Parking|Rooftop Pool|City Palace View,City Palace|Jagdish Temple,Elevator Access
+Udaipur,Hostel,Zostel Udaipur,900,4.4,Dormitory|Double,Veg|Non-Veg|Indian,Budget|Modern|Party,WiFi|Rooftop|Common Area|Lake View,Lake Pichola|Bagore Ki Haveli,Basic Access
+Varanasi,Hotel,Taj Ganges Varanasi,15000,4.7,Double|Deluxe|Suite,Veg|Non-Veg|Indian|Continental|Buffet,Luxury|Traditional,WiFi|Parking|Pool|Spa|Gym|Ganges View,Dashashwamedh Ghat|Kashi Vishwanath Temple,Wheelchair Support|Elevator Access
+Varanasi,Hotel,BrijRama Palace,18000,4.8,Deluxe|Suite|View Room,Veg|Non-Veg|Indian|Continental|À la carte,Luxury|Traditional|Romantic,WiFi|Heritage Property|Ganges View|Boat Rides|Cultural Shows,Dashashwamedh Ghat|Assi Ghat,Wheelchair Support|Elevator Access
+Varanasi,Hostel,Moustache Varanasi,600,4.2,Dormitory|Double,Veg|Non-Veg|Indian,Budget|Traditional,WiFi|Rooftop|Common Area|Yoga Classes,Assi Ghat|Banaras Hindu University,Basic Access
+Varanasi,Hotel,Hotel Ganges View,3500,4.0,Single|Double|Deluxe,Veg|Non-Veg|Indian,Budget|Traditional,WiFi|Rooftop|Ganges View,Manikarnika Ghat|Dashashwamedh Ghat,Elevator Access
+Hyderabad,Hotel,Taj Falaknuma Palace,45000,4.9,Suite|Deluxe|Executive,Veg|Non-Veg|Continental|Indian|Mediterranean|À la carte,Luxury|Traditional|Romantic,WiFi|Parking|Pool|Spa|Gym|Palace Heritage|Event Hosting,Charminar|Golconda Fort,Wheelchair Support|Elevator Access
+Hyderabad,Hotel,ITC Kakatiya,18000,4.7,Double|Deluxe|Executive,Veg|Non-Veg|Continental|Indian|Chinese|Buffet,Luxury|Modern,WiFi|Parking|Pool|Gym|Spa|Airport Pickup|Business Center,Hussain Sagar Lake|Birla Mandir,Wheelchair Support|Elevator Access
+Hyderabad,Hotel,Hotel Green Park,7000,4.1,Single|Double|Deluxe,Veg|Non-Veg|Indian,Budget|Modern,WiFi|Parking|Restaurant,Charminar|Laad Bazaar,Elevator Access
+Hyderabad,Hotel,Novotel Hyderabad,12000,4.6,Double|Deluxe|Suite,Veg|Non-Veg|Continental|Indian|Buffet,Luxury|Modern,WiFi|Parking|Pool|Gym|Airport Pickup,Hitech City|Inorbit Mall,Wheelchair Support|Elevator Access
+Pune,Hotel,The Westin Pune,20000,4.7,Double|Deluxe|Executive|Suite,Veg|Non-Veg|Continental|Indian|Chinese|Buffet,Luxury|Modern,WiFi|Parking|Pool|Spa|Gym|Airport Pickup|Event Hosting,Koregaon Park|Aga Khan Palace,Wheelchair Support|Elevator Access
+Pune,Hotel,JW Marriott Pune,22000,4.8,Deluxe|Suite|Executive,Veg|Non-Veg|Continental|Indian|À la carte,Luxury|Modern,WiFi|Parking|Pool|Spa|Gym|Rooftop Bar|Event Hosting,Shaniwar Wada|Phoenix Market City,Wheelchair Support|Elevator Access
+Pune,Hostel,Backpackers Panda Pune,800,4.3,Dormitory|Double,Veg|Non-Veg|Indian|Continental,Budget|Modern,WiFi|Common Kitchen|Work Space|Game Room,FC Road|Deccan Gymkhana,Basic Access
+Pune,Hotel,Hotel Sunderban,6000,4.0,Single|Double|Deluxe,Veg|Non-Veg|Indian,Budget|Traditional,WiFi|Parking|Restaurant,Shaniwar Wada|Dagdusheth Temple,Elevator Access
+Chennai,Hotel,ITC Grand Chola,25000,4.8,Deluxe|Suite|Executive|View Room,Veg|Non-Veg|Vegan|Continental|Indian|Chinese|Mediterranean|Buffet|À la carte,Luxury|Modern,WiFi|Parking|Pool|Spa|Gym|Airport Pickup|Event Hosting,Marina Beach|Government Museum,Wheelchair Support|Elevator Access
+Chennai,Hotel,Taj Coromandel,20000,4.7,Double|Deluxe|Suite,Veg|Non-Veg|Continental|Indian|Chinese|Buffet,Luxury|Modern,WiFi|Parking|Pool|Spa|Gym|Airport Pickup,Marina Beach|Kapaleeshwarar Temple,Wheelchair Support|Elevator Access
+Chennai,Hostel,Backpackers Inn Chennai,700,4.2,Dormitory|Double,Veg|Non-Veg|Indian,Budget|Modern,WiFi|Common Area|Kitchen,Mahabalipuram|ECR Beach,Basic Access
+Chennai,Hotel,Hotel Savera,5500,4.1,Single|Double|Deluxe,Veg|Non-Veg|Indian|Continental,Budget|Modern,WiFi|Parking|Restaurant,T Nagar|Mylapore,Elevator Access
+Kolkata,Hotel,The Oberoi Grand,22000,4.8,Deluxe|Suite|Executive,Veg|Non-Veg|Continental|Indian|Chinese|À la carte,Luxury|Traditional|Romantic,WiFi|Parking|Pool|Spa|Gym|Heritage Property|Event Hosting,Victoria Memorial|Park Street,Wheelchair Support|Elevator Access
+Kolkata,Hotel,ITC Sonar,18000,4.7,Double|Deluxe|Suite,Veg|Non-Veg|Continental|Indian|Bengali|Buffet,Luxury|Modern,WiFi|Parking|Pool|Spa|Gym|Airport Pickup|Golf Course,Science City|Eco Park,Wheelchair Support|Elevator Access
+Kolkata,Hostel,Backpackers Hostel Kolkata,600,4.3,Dormitory|Double,Veg|Non-Veg|Bengali|Indian,Budget|Traditional,WiFi|Common Area|Cultural Events|Book Exchange,College Street|Indian Museum,Basic Access
+Kolkata,Hotel,The Astor Hotel,8000,4.2,Single|Double|Deluxe,Veg|Non-Veg|Bengali|Indian|Continental,Budget|Traditional|Family-Friendly,WiFi|Parking|Restaurant|Heritage Property,Park Street|Maidan,Elevator Access
+Shimla,Hotel,Wildflower Hall,35000,4.9,Deluxe|Suite|View Room,Veg|Non-Veg|Continental|Indian|À la carte,Luxury|Romantic|Eco-Friendly,WiFi|Parking|Pool|Spa|Gym|Mountain View|Nature Walks|Pet-Friendly,Mall Road|Jakhu Temple,Wheelchair Support|Elevator Access|Pet Facilities
+Shimla,Hotel,The Oberoi Cecil,28000,4.8,Deluxe|Suite|Executive,Veg|Non-Veg|Continental|Indian|Buffet,Luxury|Traditional|Romantic,WiFi|Parking|Spa|Heritage Property|Mountain View,Mall Road|Christ Church,Wheelchair Support|Elevator Access
+Shimla,Hostel,Zostel Shimla,1000,4.4,Dormitory|Double,Veg|Non-Veg|Indian,Budget|Modern,WiFi|Common Area|Valley View|Bonfire,Mall Road|The Ridge,Basic Access
+Shimla,Hotel,Hotel Combermere,4500,4.1,Single|Double|Family,Veg|Non-Veg|Indian,Budget|Traditional,WiFi|Parking|Mountain View,Mall Road|Scandal Point,Elevator Access
+Manali,Hotel,The Himalayan,32000,4.9,Deluxe|Suite|View Room,Veg|Non-Veg|Continental|Indian|Chinese|À la carte,Luxury|Romantic|Eco-Friendly,WiFi|Parking|Spa|Gym|Mountain View|Adventure Sports|Pet-Friendly,Solang Valley|Old Manali,Wheelchair Support|Elevator Access|Pet Facilities
+Manali,Hotel,Manuallaya Resort,18000,4.7,Double|Deluxe|Suite,Veg|Non-Veg|Indian|Continental|Buffet,Luxury|Modern|Romantic,WiFi|Parking|Spa|Mountain View|River View,Hadimba Temple|Vashisht,Wheelchair Support|Elevator Access
+Manali,Hostel,The Hosteller Manali,900,4.5,Dormitory|Double,Veg|Non-Veg|Indian|Continental,Budget|Modern|Party,WiFi|Common Area|Bonfire|Cafe|Adventure Activities,Old Manali|Manu Temple,Basic Access
+Manali,Hotel,Hotel Snow Valley,5000,4.2,Single|Double|Family,Veg|Non-Veg|Indian,Budget|Modern|Family-Friendly,WiFi|Parking|Mountain View|Adventure Desk,Mall Road|Hadimba Temple,Elevator Access
+chennai,Taj Coromandel,250,4.8,"WiFi|Breakfast|Pool|Multiple Restaurants"
+chennai,ITC Grand Chola,280,4.8,"WiFi|Breakfast|Spa|Royal Suite"
+chennai,Hotel Shelter,50,3.9,"WiFi|AC|Room Service"
+kolkata,The Oberoi Grand,300,4.8,"WiFi|Breakfast|Colonial Architecture|Pool|Spa"
+kolkata,ITC Sonar,200,4.7,"WiFi|Breakfast|Golf Course|Gardens"
+kolkata,Hotel Lytton,55,4.0,"WiFi|AC|Central Location"
+varanasi,Taj Ganges,180,4.6,"WiFi|Breakfast|River View|Traditional Decor"
+varanasi,Radisson Hotel Varanasi,150,4.5,"WiFi|Breakfast|Pool|Restaurant"
+varanasi,Hotel Ganges View,45,4.1,"WiFi|Ganga View|Rooftop"
+shimla,Wildflower Hall,400,4.9,"WiFi|Breakfast|Mountain View|Spa|Hiking Trails"
+shimla,The Oberoi Cecil,320,4.8,"WiFi|Breakfast|Heritage Property|Valley View"
+shimla,Hotel Combermere,80,4.2,"WiFi|Mountain View|Breakfast"
+manali,The Himalayan,250,4.7,"WiFi|Breakfast|Mountain View|Spa|Adventure Activities"
+manali,Manu Allaya Resort,200,4.6,"WiFi|Breakfast|River View|Bonfire"
+manali,Hotel Snow Valley,70,4.0,"WiFi|Valley View|Restaurant"

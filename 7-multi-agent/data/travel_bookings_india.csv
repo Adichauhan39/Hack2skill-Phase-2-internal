@@ -1,0 +1,55 @@
+mode,origin,destination,operator,service_number,class,departure_time,arrival_time,price,duration,ac_nonac,preferences,extras,travel_type,accessibility
+Flight,Delhi,Mumbai,Air India,AI101,Economy,06:00,08:15,4500,2h 15m,AC,Window Seat,WiFi|Meals,One-Way,Wheelchair Support
+Flight,Delhi,Mumbai,Air India,AI101B,Business,06:00,08:15,12000,2h 15m,AC,Priority Boarding,WiFi|Meals|Lounge Access,One-Way,Wheelchair Support
+Flight,Delhi,Mumbai,IndiGo,6E201,Economy,09:30,11:45,3800,2h 15m,AC,Standard,WiFi,One-Way,None
+Flight,Delhi,Mumbai,SpiceJet,SG301,Economy,14:00,16:15,3500,2h 15m,AC,Standard,Meals,Round Trip,None
+Flight,Delhi,Mumbai,Vistara,UK401,Business,18:30,20:45,11000,2h 15m,AC,Extra Legroom,WiFi|Meals|Priority Baggage,One-Way,Wheelchair Support
+Flight,Delhi,Bangalore,Air India,AI102,First Class,07:00,09:45,18000,2h 45m,AC,Lie-flat Seat,WiFi|Meals|Lounge Access|Priority Baggage,One-Way,Wheelchair Support|Child Seat
+Flight,Delhi,Bangalore,IndiGo,6E202,Economy,11:00,13:45,4500,2h 45m,AC,Standard,WiFi,One-Way,None
+Flight,Delhi,Goa,Air India,AI103,Economy,08:00,10:30,5800,2h 30m,AC,Window Seat,Meals,Round Trip,None
+Flight,Delhi,Goa,IndiGo,6E203,Business,12:30,15:00,13500,2h 30m,AC,Extra Legroom,WiFi|Meals|Lounge Access,One-Way,Wheelchair Support
+Flight,Delhi,Jaipur,SpiceJet,SG304,Economy,14:30,15:30,1500,1h 00m,AC,Standard,None,One-Way,None
+Train,Delhi,Mumbai,Rajdhani Express,12951,AC 1st Class,16:30,08:35,3500,16h 05m,AC,Bedding Included,Meals|Charging Port,One-Way,Wheelchair Support
+Train,Delhi,Mumbai,Shatabdi Express,12002,AC Chair Car,06:15,14:30,1850,8h 15m,AC,Reserved Seat,Meals|Charging Port,Round Trip,None
+Train,Delhi,Mumbai,Duronto Express,12259,AC 2-Tier,21:50,11:05,2200,13h 15m,AC,Sleeper Berth,Meals|Bedding|Charging Port,One-Way,Wheelchair Support
+Train,Delhi,Mumbai,Garib Rath,12909,AC 3-Tier,15:05,07:25,1400,16h 20m,AC,Sleeper Berth,Charging Port,One-Way,None
+Train,Delhi,Jaipur,Shatabdi Express,12015,AC Chair Car,06:05,10:30,825,4h 25m,AC,Reserved Seat,Meals|Charging Port,Round Trip,None
+Train,Mumbai,Delhi,August Kranti,12953,Sleeper Class,17:10,09:25,900,16h 15m,Non-AC,Sleeper Berth,Charging Port,One-Way,None
+Train,Delhi,Bangalore,Rajdhani Express,12429,AC 2-Tier,20:20,04:30,3100,32h 10m,AC,Sleeper Berth,Meals|Bedding|Charging Port,One-Way,Wheelchair Support
+Train,Mumbai,Goa,Konkan Kanya,10111,AC 3-Tier,23:00,11:45,1600,12h 45m,AC,Sleeper Berth,Charging Port,One-Way,None
+Train,Chennai,Bangalore,Shatabdi Express,12028,AC Chair Car,06:00,11:15,740,5h 15m,AC,Reserved Seat,Meals|Charging Port,Round Trip,None
+Train,Kolkata,Delhi,Rajdhani Express,12301,AC 1st Class,16:50,10:05,3800,17h 15m,AC,Bedding Included,Meals|Charging Port,One-Way,Wheelchair Support
+Bus,Delhi,Jaipur,RedBus Volvo,RB501,Sleeper,22:30,05:30,800,7h 00m,AC,Sleeper Berth,WiFi|Charging Port,One-Way,None
+Bus,Delhi,Jaipur,RSRTC,RS201,Seater,08:00,13:30,450,5h 30m,AC,Reserved Seat,Charging Port,Round Trip,None
+Bus,Delhi,Jaipur,Private Deluxe,PD301,Semi-Sleeper,23:00,05:00,650,6h 00m,AC,Reclining Seat,WiFi|Blanket,One-Way,None
+Bus,Mumbai,Pune,Shivneri,SN101,Seater,06:00,09:30,350,3h 30m,AC,Reserved Seat,WiFi|Charging Port,Round Trip,None
+Bus,Bangalore,Goa,VRL Travels,VRL401,Sleeper,20:00,08:30,1200,12h 30m,AC,Sleeper Berth,WiFi|Blanket|Pillow,One-Way,None
+Bus,Delhi,Agra,UP Roadways,UP101,Seater,06:30,10:30,250,4h 00m,Non-AC,Shared Seat,None,One-Way,None
+Bus,Hyderabad,Bangalore,Kallada Travels,KT501,Multi-Axle Sleeper,22:30,06:00,1100,7h 30m,AC,Sleeper Berth,WiFi|Charging Port|Blanket,One-Way,Wheelchair Support
+Bus,Chennai,Bangalore,KPN,KPN201,Volvo Sleeper,23:00,06:00,850,7h 00m,AC,Sleeper Berth,Charging Port|Blanket,Round Trip,None
+Bus,Mumbai,Goa,Paulo Travels,PT301,Semi-Sleeper,21:00,09:00,900,12h 00m,AC,Reclining Seat,WiFi|Charging Port,One-Way,None
+Bus,Pune,Mumbai,Shivshahi,SS101,Seater,07:00,10:00,300,3h 00m,AC,Reserved Seat,Charging Port,Round Trip,None
+Car Rental,Delhi,Agra,Zoomcar,ZC001,Sedan,Flexible,Flexible,2500,3-4h (Self-Drive),AC,Self-Drive,GPS|Fuel|Insurance,One-Way,Child Seat
+Car Rental,Delhi,Jaipur,Revv,RV001,SUV,Flexible,Flexible,3500,4-5h (Self-Drive),AC,Self-Drive,GPS|Fuel|Insurance,Round Trip,Child Seat
+Car Rental,Mumbai,Pune,Myles,MY001,Hatchback,Flexible,Flexible,1800,3h (Self-Drive),AC,Self-Drive,GPS|Fuel,One-Way,None
+Car Rental,Bangalore,Goa,Savaari,SV001,Sedan with Driver,Flexible,Flexible,8500,10-12h (Chauffeur),AC,Driver Provided,Fuel|Toll|Parking,Round Trip,Child Seat
+Car Rental,Delhi,Shimla,Ola Outstation,OO001,SUV with Driver,Flexible,Flexible,12000,8-9h (Chauffeur),AC,Driver Provided,Fuel|Toll|Parking|Hill Driving,Round Trip,Wheelchair Support|Child Seat
+Car Rental,Jaipur,Udaipur,Zoomcar,ZC002,Sedan,Flexible,Flexible,4200,6-7h (Self-Drive),AC,Self-Drive,GPS|Fuel|Insurance,One-Way,Child Seat
+Car Rental,Chennai,Pondicherry,Myles,MY002,Sedan,Flexible,Flexible,2200,2-3h (Self-Drive),AC,Self-Drive,GPS|Fuel|Insurance,Round Trip,None
+Car Rental,Kolkata,Darjeeling,Revv,RV002,SUV with Driver,Flexible,Flexible,15000,10-12h (Chauffeur),AC,Driver Provided,Fuel|Toll|Parking|Hill Driving,Round Trip,Wheelchair Support
+Taxi,Delhi,Airport,Uber,UB001,Economy,Flexible,Flexible,350,45min-1h,AC,Shared|Private,GPS,One-Way,Child Seat
+Taxi,Mumbai,Airport,Ola,OL001,Prime,Flexible,Flexible,650,1-1.5h,AC,Private,GPS|WiFi,One-Way,Wheelchair Support|Child Seat
+Taxi,Bangalore,City Tour,Meru,MR001,Sedan,Flexible,Flexible,1500,8h Package,AC,Private,GPS|Waiting Time,Multi-City,Child Seat
+Taxi,Delhi,Railway Station,Rapido,RP001,Economy,Flexible,Flexible,200,30-45min,AC,Private,GPS,One-Way,None
+Taxi,Chennai,Airport,Uber Premier,UB002,Premium,Flexible,Flexible,800,1-1.5h,AC,Private,GPS|WiFi|Premium Vehicle,One-Way,Wheelchair Support
+Taxi,Hyderabad,City,Ola Auto,OL002,Auto-Rickshaw,Flexible,Flexible,80,20-30min,Non-AC,Shared,GPS,One-Way,None
+Taxi,Pune,Airport,Meru,MR002,Sedan,Flexible,Flexible,450,45min-1h,AC,Private,GPS|Luggage Handling,One-Way,Child Seat
+Taxi,Jaipur,Local,Local Taxi,LT001,Economy,Flexible,Flexible,500,4h Package,AC,Private,GPS,Multi-City,None
+Bike/Scooter,Delhi,Local,Bounce,BC001,Scooter,Flexible,Flexible,50,1h Rental,Non-AC,Self-Ride,Helmet|Lock,One-Way,None
+Bike/Scooter,Bangalore,Local,Vogo,VG001,Scooter,Flexible,Flexible,80,2h Rental,Non-AC,Self-Ride,Helmet|Lock|Phone Holder,One-Way,None
+Bike/Scooter,Mumbai,Local,Yulu,YL001,E-Bike,Flexible,Flexible,30,30min Rental,Non-AC,Self-Ride,Lock,One-Way,None
+Bike/Scooter,Pune,Local,Bounce,BC002,Bike,Flexible,Flexible,150,4h Rental,Non-AC,Self-Ride,Helmet|Lock|Phone Holder,One-Way,None
+Bike/Scooter,Goa,Local,Royal Brothers,RB001,Bike,Flexible,Flexible,800,Full Day,Non-AC,Self-Ride,Helmet|Lock|Phone Holder|Fuel,Round Trip,None
+Bike/Scooter,Chennai,Local,Vogo,VG002,Scooter,Flexible,Flexible,60,90min Rental,Non-AC,Self-Ride,Helmet|Lock,One-Way,None
+Bike/Scooter,Jaipur,Local,Bounce,BC003,Scooter,Flexible,Flexible,100,3h Rental,Non-AC,Self-Ride,Helmet|Lock|Phone Holder,One-Way,None
+Bike/Scooter,Udaipur,Local,Royal Brothers,RB002,Bike,Flexible,Flexible,600,Full Day,Non-AC,Self-Ride,Helmet|Lock|Fuel,Round Trip,None
